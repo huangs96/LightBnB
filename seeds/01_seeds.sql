@@ -1,0 +1,10 @@
+INSERT INTO users (id, name, email, password)
+VALUES (1, Eva Stanley, sebastianguerra@ymail.com, $2a$10$FB/BOAVhpuLvpOREQVmvmezD4ED/.JBIDRh70tGevYzYzQgFId2u.)
+(2, Louisa Meyer, jacksonrose@hotmail.com, $2a$10$FB/BOAVhpuLvpOREQVmvmezD4ED/.JBIDRh70tGevYzYzQgFId2u.)
+(3, Dominic Parks, victoriablackwell@outlook.com, $2a$10$FB/BOAVhpuLvpOREQVmvmezD4ED/.JBIDRh70tGevYzYzQgFId2u.)
+(4, Sue Luna, jasonvincent@gmx.com, $2a$10$FB/BOAVhpuLvpOREQVmvmezD4ED/.JBIDRh70tGevYzYzQgFId2u.)
+(4, Sue Luna, jasonvincent@gmx.com, $2a$10$FB/BOAVhpuLvpOREQVmvmezD4ED/.JBIDRh70tGevYzYzQgFId2u.)
+(5, Rosalie Garza, jacksondavid@gmx.com, $2a$10$FB/BOAVhpuLvpOREQVmvmezD4ED/.JBIDRh70tGevYzYzQgFId2u.)
+
+INSERT INTO properties (id, owner_id, description)
+VALUES ()
